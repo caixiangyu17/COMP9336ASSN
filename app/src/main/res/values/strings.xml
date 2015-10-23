@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">COMP9336ASSN</string>
+    <string name="title_activity_main">COMP9336ASSN</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="planets_array">
+        <item>Accelerometer</item>
+        <item>GPS</item>
+        <item>Wi-Fi, Bluetooth and Wi-Fi hotspot</item>
+    </string-array>
+</resources>
